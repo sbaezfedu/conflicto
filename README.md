@@ -6,11 +6,11 @@ Probando texto normal
 
 ---
 
-> Recuadro y enlace a mi repositorio [Es este] (https://github.com/sbaezfedu/conflicto).
+> Recuadro y enlace a mi repositorio [Es este](https://github.com/sbaezfedu/conflicto).
 
 ---
 
-- [Enlace a sección 1] (#ramas)
+- [Enlace a sección 1](#ramas)
 
 ## Ramas
 
